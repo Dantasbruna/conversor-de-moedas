@@ -1,6 +1,6 @@
 # conversor-de-moedas 💰
 
-Estou participando da Imersão Dev-Alura e a primeira aula aprendemos como fazer um conversor de moedas! 
+Estou participando da Imersão Dev-Alura e a primeira aula foi ensinado de como fazer um conversor de moedas! 
 
 📌 Funcionalidades
 
