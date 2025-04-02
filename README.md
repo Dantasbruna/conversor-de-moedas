@@ -5,6 +5,7 @@ Estou participando da Imersão Dev-Alura e a primeira aula foi ensinado de como 
 
 📌 Funcionalidades:
 
+
 Conversão de Reais (BRL) para Wons Coreanos (KRW)
 
 Interface simples e intuitiva
@@ -13,6 +14,7 @@ Cálculo atualizado com base em uma taxa de câmbio
 
 
 🚀 Tecnologias Utilizadas:
+
 
 HTML → Estrutura do projeto
 
