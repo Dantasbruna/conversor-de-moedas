@@ -1,6 +1,6 @@
-# conversor-de-moedas
+# conversor-de-moedas 💰
 
-Estou participando da Imersão Dev-Alura e na primeira aula aprendemos como fazer um conversor de moedas! 
+Estou participando da Imersão Dev-Alura e a primeira aula aprendemos como fazer um conversor de moedas! 
 
 📌 Funcionalidades
 
@@ -18,4 +18,5 @@ CSS → Estilização da interface
 
 JavaScript → Lógica de conversão
 
-Sou iniciante na área, não tenho conhecimento e a imersão está me ajudando neste sentido, de que eu possa melhorar, evoluir e fazer meus próprios projetos futuros! 
+
+Sou iniciante na área, não tenho conhecimento e a imersão está me ajudando neste sentido, de que eu possa melhorar, evoluir e fazer meus próprios projetos futuros! ✨
