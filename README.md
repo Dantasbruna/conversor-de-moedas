@@ -1,8 +1,9 @@
 # conversor-de-moedas 💰
 
-Estou participando da Imersão Dev-Alura e a primeira aula foi ensinado de como fazer um conversor de moedas! 
+Estou participando da Imersão Dev-Alura e a primeira aula foi ensinado de como fazer um conversor de moedas!
 
-📌 Funcionalidades
+
+📌 Funcionalidades:
 
 Conversão de Reais (BRL) para Wons Coreanos (KRW)
 
@@ -10,7 +11,8 @@ Interface simples e intuitiva
 
 Cálculo atualizado com base em uma taxa de câmbio 
 
-🚀 Tecnologias Utilizadas
+
+🚀 Tecnologias Utilizadas:
 
 HTML → Estrutura do projeto
 
